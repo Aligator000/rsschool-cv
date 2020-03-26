@@ -23,8 +23,8 @@ in programming. I have been able to solve a lot of problems with a little, big h
 
 ### experience
 in a team with my fiends we created these two commercial websites:
-1. (http://www.hanba1926.pl)
-2. (http://aveq.pl)
+1. *(http://www.hanba1926.pl)*
+2. *(http://aveq.pl)*
 
 ## education
 I have spent some time on codecademy and freeCodeCamp.org and
@@ -36,10 +36,11 @@ I speak also German and Polish.
 
 # code
 Javascript does not offer any method to detect changes in e.g. two arrays. Therefore, go ahead and use this simple code:
+
+```javascript
 function compare(arr1, arr2) {
   let result = [];
   
-  ```javascript
   arr1.forEach((e1) => arr2.forEach((e2) => {
     if(e1 === e2){
         result.push(e1);   
