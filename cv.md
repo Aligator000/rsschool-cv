@@ -3,10 +3,10 @@
 ### contact me at:
 **mail**: justyna.idzi@gmail.com
 **phone**: 0048 508793924
-skype: justyna.idzi
-discord: Aligator000#9259
+**skype**: justyna.idzi
+**discord**: Aligator000#9259
 
-[![21230889-10155649414306873-4205331082106196558-n.jpg](https://i.postimg.cc/sg0QCnzr/21230889-10155649414306873-4205331082106196558-n.jpg)](https://postimg.cc/CRkLjsdP)
+[![merun.jpg](https://i.postimg.cc/hjbdJ6h7/merun.jpg)](https://postimg.cc/vgTBkPrQ)
 
 ### summary
 I started to learn programming about a year ago. I deviates significantly from everything
