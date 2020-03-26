@@ -1,6 +1,6 @@
 # Justyna Idzi
 
-### contact me at:
+### contact me:
 **mail**: justyna.idzi@gmail.com
 **phone**: 0048 508793924
 **skype**: justyna.idzi
@@ -10,7 +10,7 @@
 
 ### summary
 I started to learn programming about a year ago. I deviates significantly from everything
-I have been doing so far in my life. Sometimes it is really hard but it woke up the unvisted
+I have been doing in my life. Sometimes it is really hard but it woke up the sofar unvisted
 areas in my brain and it is being an really exciting journey.
 But what I was always good at was seraching for a solutions and ways out. It turned out to be very helpful
 in programming. I have been able to solve a lot of problems with a little, big help of google, my friend.
@@ -29,3 +29,23 @@ in a team with my fiends we created these two commercial websites:
 ## education
 I have spent some time on codecademy and freeCodeCamp.org and
 finally accomplished **"Front-end" 3-months bootcamp in Kodilla school.**
+
+## English & langugages
+Ever since I started working I have been unsing English to communicate with clients.
+I speak also German and Polish.
+
+# code
+Javascript does not offer any method to detect changes in e.g. two arrays. Therefore, go ahead and use this simple code:
+function compare(arr1, arr2) {
+  let result = [];
+  
+  ```javascript
+  arr1.forEach((e1) => arr2.forEach((e2) => {
+    if(e1 === e2){
+        result.push(e1);   
+   }
+  }
+ ))
+  return result;
+}
+```
